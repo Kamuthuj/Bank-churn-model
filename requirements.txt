@@ -1,6 +1,6 @@
 dash == 2.16.1
 gunicorn
-dash-bootstrap-components==1.0.0
+dash-bootstrap-components==1.6.0
 pandas
 numpy
 scikit-learn

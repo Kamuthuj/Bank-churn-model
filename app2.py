@@ -14,6 +14,7 @@ model = joblib.load("best_model1.pkl")
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server=app2.server
 
 
 app.layout = dbc.Container([
